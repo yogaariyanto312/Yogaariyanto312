@@ -40,7 +40,11 @@ Saya percaya bahwa kerja keras, konsistensi, dan kemauan untuk terus belajar ada
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaariyanto312&layout=compact&theme=tokyonight"/>
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogaariyanto312/yogaariyanto312/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogaariyanto312/yogaariyanto312/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yogaariyanto312/yogaariyanto312/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ### 📫 Kontak Saya
