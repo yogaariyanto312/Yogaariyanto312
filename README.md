@@ -25,7 +25,6 @@ Saya percaya bahwa kerja keras, konsistensi, dan kemauan untuk terus belajar ada
 ### 🔧 Teknologi & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/MikroTik-000000?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
