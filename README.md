@@ -79,4 +79,6 @@ Saya percaya bahwa kerja keras, konsistensi, dan kemauan untuk terus belajar ada
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
+---
+
 > *"Bangun dari bawah bukan berarti kalah. Tapi bukti bahwa kamu tahan banting dan gak nyerah."*
