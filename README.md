@@ -41,4 +41,10 @@ Saya percaya bahwa kerja keras, konsistensi, dan kemauan untuk terus belajar ada
 
 ---
 
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siegrin&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siegrin&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 > *"Bangun dari bawah bukan berarti kalah. Tapi bukti bahwa kamu tahan banting dan gak nyerah."*
