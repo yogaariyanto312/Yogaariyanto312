@@ -26,10 +26,13 @@ Dengan mengutamakan ketelitian, konsistensi, dan kemampuan problem solving, saya
 
 ### 💼 Fokus Saat Ini
 
-- 🔧 Membangun portofolio web modern & fungsional
-- ⚙️ Belajar backend development (Laravel, MySQL)
-- 🤖 Eksperimen dengan AI & IoT (gesture control, ESP32)
-- 🌱 Sedang mempelajari Android Studio & Kotlin
+• Full-Stack Web Development (Laravel, PHP, MySQL)
+• Sistem Kasir & Digitalisasi UMKM
+• Internet of Things (ESP32, Sensor, Automation)
+• Artificial Intelligence & AI Integration
+• Android Development (Kotlin)
+• UI/UX dan Pengalaman Pengguna
+• Pengembangan Produk Digital dari Ide hingga Deployment
 
 ---
 
