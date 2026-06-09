@@ -16,9 +16,11 @@
 
 ### 🧠 Tentang Saya
 
-Saya adalah seorang pemuda yang bersemangat dalam dunia teknologi, terutama di bidang **Quality Control Engineering**, **pengembangan web**, dan **otomasi sistem sederhana**.
+Saya adalah seorang Quality Control Engineer yang memiliki minat besar dalam pengembangan teknologi, khususnya di bidang pengembangan web, otomasi sistem, Internet of Things (IoT), dan digitalisasi proses bisnis.
 
-Saya percaya bahwa kerja keras, konsistensi, dan kemauan untuk terus belajar adalah kunci untuk mencapai kesuksesan.
+Berpengalaman dalam membangun aplikasi berbasis web, mengelola database, serta mengembangkan solusi teknologi yang membantu meningkatkan efisiensi dan produktivitas. Saya memiliki semangat tinggi untuk terus belajar, beradaptasi dengan perkembangan teknologi, dan menciptakan solusi yang memberikan dampak nyata.
+
+Dengan mengutamakan ketelitian, konsistensi, dan kemampuan problem solving, saya percaya bahwa inovasi dan pembelajaran berkelanjutan adalah fondasi utama dalam membangun karier profesional yang berkelanjutan.
 
 ---
 
